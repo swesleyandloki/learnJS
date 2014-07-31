@@ -10,3 +10,4 @@ Here is some markdown formatting
 And some `more`
 
 - [] Do checkboxes work?
+- Apparently not, but you can still make lists
