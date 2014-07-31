@@ -9,4 +9,4 @@ Here is some markdown formatting
 
 And some `more`
 
- - [] Do checkboxes work?
+- [] Do checkboxes work?
